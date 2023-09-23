@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '《100小时学编程》',
+  title: '《100小时学会写代码》',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '《100小时学编程》',
+        title: '《100小时学会写代码》',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
