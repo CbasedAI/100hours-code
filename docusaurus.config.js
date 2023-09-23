@@ -75,14 +75,13 @@ const config = {
             sidebarId: 'cLangSidebar',
             position: 'left',
             label: 'C语言教程',
-            className: 'c-lang-link',
           },
           {
             type: 'docSidebar',
             sidebarId: 'pythonSidebar',
             position: 'left',
             label: 'Python教程',
-            className: 'python-link',  // 添加这一行
+            className: 'python-link',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {

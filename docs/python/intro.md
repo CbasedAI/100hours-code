@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 写在前面
+# 《100小时学会Python》
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
