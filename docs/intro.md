@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 100小时后请叫我Python程序员
+# 写在前面
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
