@@ -72,16 +72,16 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'cLangSidebar',
-            position: 'left',
-            label: 'C语言教程',
-          },
-          {
-            type: 'docSidebar',
             sidebarId: 'pythonSidebar',
             position: 'left',
             label: 'Python教程',
             className: 'python-link',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'cLangSidebar',
+            position: 'left',
+            label: 'C语言教程',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {

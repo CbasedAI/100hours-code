@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# C语言通关
+# 0基础100小时通关C语言
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

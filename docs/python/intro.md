@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 《100小时学会Python》
+# 0基础100小时通关Python
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
