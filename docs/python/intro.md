@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 0基础100小时通关Python
 
-Let's discover **Docusaurus in less than 5 minutes**.
+让我们用不到 7 分钟的时间来探索 Python。
 
 ## Getting Started
 
