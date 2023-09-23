@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpython_100_days=self.webpackChunkpython_100_days||[]).push([[1299],{8008:o=>{o.exports=JSON.parse('{"permalink":"/Python-100days/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

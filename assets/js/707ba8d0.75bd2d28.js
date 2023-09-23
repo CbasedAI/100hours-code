@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpython_100_days=self.webpackChunkpython_100_days||[]).push([[2948],{4058:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Python-100days/blog/tags/docusaurus","allTagsPath":"/Python-100days/blog/tags","count":4}')}}]);

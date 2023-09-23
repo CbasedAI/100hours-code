@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpython_100_days=self.webpackChunkpython_100_days||[]).push([[5857],{1992:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Python-100days/blog/tags/hola","allTagsPath":"/Python-100days/blog/tags","count":1}')}}]);
