@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '100小时后请叫我Python程序员',
+  title: '《100小时学编程》',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '《100小时后请叫我程序员》',
+        title: '《100小时学编程》',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -72,9 +72,17 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'cLangSidebar',
+            position: 'left',
+            label: 'C语言教程',
+            className: 'c-lang-link',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'pythonSidebar',
             position: 'left',
             label: 'Python教程',
+            className: 'python-link',  // 添加这一行
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -127,7 +135,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 黄昊醒 . Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
