@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '《0基础100小时学编程》',
-  tagline: 'Dinosaurs are cool',
+  title: '零基础学编程',
+  tagline: '探索，玩耍，创造！',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
