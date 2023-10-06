@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpython_100_days=self.webpackChunkpython_100_days||[]).push([[5981],{126:e=>{e.exports=JSON.parse('{"permalink":"/100hours-code/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

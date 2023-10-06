@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpython_100_days=self.webpackChunkpython_100_days||[]).push([[2336],{6602:s=>{s.exports=JSON.parse('{"permalink":"/100hours-code/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
